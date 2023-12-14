@@ -1,2 +1,2 @@
 A shooter game, where the player has to shoot some enemies in a desert. 
-(Screenshots/image_large.jpg)
+![Alt text for image](Screenshots/image_large.jpg)
